@@ -1,0 +1,3 @@
+Primary color #004b24
+
+secondary color #fca311
